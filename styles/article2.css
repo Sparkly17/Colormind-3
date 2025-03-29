@@ -1,0 +1,146 @@
+h1 span{
+    color: #AED628;
+}
+
+.article_header{
+    margin-bottom: 212px;
+}
+
+.article_black{
+    width: 100%;
+    margin-bottom: 865px;
+}
+
+.article_black-eleg{
+    width: 720px;
+}
+
+.table_black{
+    margin-bottom: 200px;
+    grid-template-columns: 100px 515px;
+}
+
+.table_white{
+    grid-template-columns: 180px 540px;
+    margin-left: auto;
+    width: 740px;
+    margin-right: 45px;
+}
+
+.article_black-title{
+    margin-bottom: 30px;
+}
+
+.article_black-text{
+    margin-bottom: 60px;
+    width: 480px;
+}
+
+.article_black-psycho{
+    width: 475px;
+    margin-bottom: 200px;
+}
+
+.article_black-psycho .bold{
+    font-weight: 700;
+}
+
+.article_red{
+    width: 100%;
+}
+
+.article_red-brave{
+    width: 720px;
+    margin-left: auto;
+    margin-right: 62px;
+}
+
+.article_red-brave-title{
+    margin-bottom: 30px;
+}
+
+.table_red{
+    width: 700px;
+    grid-template-columns: 150px 500px;
+    margin: 50px 80px 130px auto;
+}
+
+.article_red-psycho{
+    width: 483px;
+    margin-left: auto;
+    margin-right: 28px;
+    margin-bottom: 436px;
+}
+
+.table_yellow{
+    grid-template-columns: 110px 571px;
+}
+
+.article_red-end{
+    margin-top: 346px;
+}
+
+.article_red-end-first{
+    margin-top: 30px;
+    width: 726px;
+}
+
+.article_red-end-second{
+    margin-top: 60px;
+    margin-left: 120px;
+    width: 773px;
+}
+
+.article_quiz{
+    background-color: #AED628;
+}
+
+.list_tag{
+    color: #AED628;
+}
+
+.img_1{
+    width: 558px;
+    position: absolute;
+    left: 844px;
+    top: 847px;
+}
+
+.img_2{
+    width: 440px;
+    position: absolute;
+    left: 615px;
+    top: 1440px;
+}
+
+.img_3{
+    width: 555px;
+    position: absolute;
+    left: 40px;
+    top: 2190px;
+}
+
+.img_4{
+    width: 326px;
+    position: absolute;
+    left: 730px;
+    top: 2320px;
+}
+
+.img_5{
+    width: 439px;
+    position: absolute;
+    left: 40px;
+    top: 3150px;
+}
+
+.img_6{
+    width: 387px;
+    position: absolute;
+    left: 436px;
+    top: 3510px;
+}
+
+.article_quiz-ans.active{
+    outline: 4px solid #7CA100;
+}

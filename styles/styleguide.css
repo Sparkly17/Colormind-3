@@ -1,0 +1,392 @@
+main .h2{
+    font-family: 'Soyuz Grotesk';
+    font-size: 150px;
+    line-height: 120px;
+    margin-left: 0;
+}
+
+main .h3{
+    font-size: 70px;
+    line-height: 56px;
+    font-family: 'Soyuz Grotesk';
+}
+
+.start{
+    margin-top: 100px;
+    margin-bottom: 400px;
+}
+
+.brand{
+    padding: 50px 60px 70px 115px;
+    background-color: #F6F6F6;
+    margin-bottom: 150px;
+}
+
+.brand-title{
+    margin-bottom: 50px;
+}
+
+.brand-description{
+    font-size: 30px;
+    line-height: 35px;
+    margin-bottom: 70px;
+}
+
+.mission-title{
+    margin-bottom: 30px;
+}
+
+.mission-description{
+    font-size: 30px;
+    line-height: 35px;
+    margin-bottom: 70px;
+}
+
+.mission-row{
+    display: flex;
+    gap: 200px;
+}
+
+.mission-row.top{
+    margin-bottom: 40px;
+}
+
+.mission-item{
+    max-width: 480px;
+}
+
+.mission-item_title{
+    margin-bottom: 20px;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.mission-item_description{
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.logo-title{
+    margin-bottom: 50px;
+}
+
+.logo-description_first{
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 30px;
+}
+
+.logo-description_second{
+    font-size: 20px;
+    line-height: 25px;
+
+}
+
+.logo-description_third{
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 10px;
+}
+
+.logo-description_second br::after {
+    content: "";
+    display: block;
+    margin-top: 10px;
+}
+.logo-top{
+    display: grid;
+    grid-template-columns: 6fr 5fr;
+    gap: 115px;
+}
+
+.logo-points{
+    display: grid;
+    gap: 115px;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 115px;
+}
+
+.logo-logo{
+    margin: auto 0;
+}
+
+.logo-points:first-of-type{
+    margin-bottom: 50px;
+    margin-top: 70px;
+}
+
+.logo-point-title{
+    font-size: 30px;
+    line-height: 33px;
+    margin-bottom: 20px;
+    width: 440px;
+}
+
+.logo-point-description{
+    font-size: 20px;
+    line-height: 25px;
+    max-width: 500px;
+}
+
+.security-title{
+    margin-bottom: 30px;
+}
+
+.logo-middle-2{
+    margin-top: 120px;
+    display: grid;
+    grid-template-columns: 5fr 5fr;
+    gap: 230px;
+}
+
+.security-description_first{
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.security-description_second{
+    margin-top: 10px;
+    font-size: 20px;
+    line-height: 25px;
+}
+.could-title{
+    margin-bottom: 30px;
+}
+
+.could-content{
+    display: flex;
+    gap: 190px;
+}
+
+.could-description{
+    width: 500px;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.couldnt-description{
+    width: 655px;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.types{
+    padding: 50px 115px 70px 115px;
+    background-color: #F6F6F6;
+}
+
+.fonts{
+    display: flex;
+    gap: 232px;
+    margin-top: 50px;
+}
+
+.font-extra{
+    color: #FF58CF;
+    font-size: 30px;
+    line-height: 35px;
+    margin-bottom: 11px;
+    font-weight: 700;
+}
+
+.font-title{
+    margin-bottom: 20px;
+}
+
+.font-font{
+    font-size: 30px;
+    line-height: 24px;
+}
+
+.grotesk .font-title{
+    font-family: 'Soyuz Grotesk';
+}
+
+.grotesk .font-font{
+    font-family: 'Soyuz Grotesk';
+    width: 325px;
+}
+
+.helvetica .font-title{
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.helvetica .font-font{
+    width: 368px;
+    line-height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.colors-table{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 20px;
+}
+.colors-title{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.colors-pink{
+    margin-bottom: 20px;
+    color: #FF58CF;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.colors-row{
+    display: grid;
+    grid-template-rows: 204px 204px;
+    row-gap: 20px;
+}
+
+.colors-color{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    line-height: 35px;
+    color: white;
+    font-weight: 400;
+}
+
+.colors-dop_top{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.colors-dop_bottom{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.grid{
+    margin-top: 150px;
+}
+
+.grid-title{
+    margin-bottom: 50px;
+}
+
+.grid-description{
+    margin-bottom: 50px;
+}
+
+.logo-logos{
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.logo-bad_logos{
+    margin-top: 50px;
+    margin-bottom: 130px;
+}
+
+.grid-description{
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.graphic-title{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.graphic-description{
+    font-size: 30px;
+    line-height: 35px;
+    margin-bottom: 50px;
+    width: 780px;
+}
+
+.rules-title{
+    margin-bottom: 30px;
+}
+
+.rules{
+    display: grid;
+    grid-template-columns: 5fr 5fr;
+    column-gap: 135px;
+    row-gap: 75px;
+    margin-right: 115px;
+    margin-bottom: 70px;
+}
+
+.rule.first{
+    margin-left: 115px;
+}
+
+.rule-title{
+    font-size: 30px;
+    line-height: 35px;
+    margin-bottom: 20px;
+}
+
+.rule-text{
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.team{
+    margin-bottom: 150px;
+}
+
+.team-title{
+    margin-bottom: 70px;
+}
+
+.team-person{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.team-name{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.team-tags{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 360px;
+}
+
+.team-tag{
+    padding: 8.5px 16.5px;
+    border: 0.83px solid #222222;
+    border-radius: 9px;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.blue-bro{
+    position: absolute;
+    top: 164px;
+    right: 0;
+}
+
+.stars{
+    position: absolute;
+    top: 236px;
+    right: 460px;
+}
+
+.mocks{
+    margin-bottom: 150px;
+}
+
+.mocks-title{
+    margin-bottom: 70px;
+}
+
+.mocks-img{
+    margin-bottom: 30px;
+}
