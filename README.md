@@ -9,3 +9,5 @@
 Страница статьи: https://sparkly17.github.io/Colormind-2/article.html
 
 Стайлгайд: https://sparkly17.github.io/Colormind-2/styleguide.html
+
+Тест: https://sparkly17.github.io/Colormind-2/styleguide.html
